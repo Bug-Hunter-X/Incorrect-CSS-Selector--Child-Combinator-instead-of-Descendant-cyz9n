@@ -1,0 +1,1 @@
+The following CSS rule attempts to select elements with a class of "example" within elements having an id of "container", but it uses an incorrect syntax.  It should use a descendant combinator (space) instead of a child combinator (greater than symbol).
