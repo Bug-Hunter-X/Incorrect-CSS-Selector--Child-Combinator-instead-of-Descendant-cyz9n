@@ -1,0 +1,7 @@
+The corrected CSS selector uses a space to select all elements with class "example" that are descendants of an element with the id "container", regardless of their nesting level within the container.
+
+```css
+#container .example {
+  /* Styles */
+}
+```
